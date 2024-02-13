@@ -1,6 +1,6 @@
 # Make a Tiny Garden game in Godot 4/CodeAlong
 ![](Banner.png)
-Learn to make a Tiny Garden 2D game in Godot. [Watch full tutorial video on YouTube](https://youtu.be/vSwJulHbCW8)! <p></p>
+Learn to make a Tiny Garden 2D game in Godot. [Watch full tutorial video on YouTube](https://www.youtube.com/watch?v=nYN4L8afRfQ)! <p></p>
 
 
 ## What you'll learn
@@ -8,7 +8,7 @@ Learn to make a Tiny Garden 2D game in Godot. [Watch full tutorial video on YouT
 - Learn what Resources are in godot 
 
 
-Feel free to [ open an issue ](https://github.com/venex-source/godot-2D-adventure-platformer/issues) and submit a Pull Request if you find bugs!
+Feel free to [ open an issue ](https://github.com/venex-source/2D-Tiny-Gardening-Game/issues) and submit a Pull Request if you find bugs!
 
 ## How to get started
 1. Download and Install the [Godot Engine](https://godotengine.org/) **(v.4.0 and above)**.
